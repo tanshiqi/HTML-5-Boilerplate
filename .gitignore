@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/bower
+.env
+.env.dist
+.env.dev
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db

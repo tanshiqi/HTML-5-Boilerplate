@@ -1,0 +1,6 @@
+{
+    "directory": "bower",
+    "scripts": {
+        "postinstall": "bower-requirejs -c js/main.js -t"
+    }
+}
